@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Running Apache in Jail"
-date:   2022-01-26 14:02:00 +0100
-categories: FreeBSD 
+date:   2021-11-17 14:02:00 +0100
+categories: freebsd
 ---
 
 Recently I've been using FreeBSD for development, in part because I really like the experience of developing inside of jails.  No, I'm not delinquent for tax evasion, what I mean is that FreeBSD provides something called a <a href="https://docs.freebsd.org/en/books/handbook/jails/"> Jail </a>, which I have found is a happy medium between a VM and a Linux container.  Jails, like containers use the host kernel, however, are less ephemeral than containers.  Here's how I created a container to run Apache for developing this blog.  Note in the future I want to use a different web server, maybe something I develop in Rust.
