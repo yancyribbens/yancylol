@@ -25,7 +25,7 @@ Loading the driver every time was cumbersome, and while it seemed like it should
 acpi_video_load="YES"
 {% endhighlight %}
 
-Lastly, there are two nobs for setting the brightness depending on if the computer is plugged in or running on bats.  For myself I just set these both to 100 since that seems to be my default (volume 11/10).  To adjust these settings, I add the following to `/etc/sysctl.conf`:
+Lastly, there are two knobs for setting the brightness depending on if the computer is plugged in or running on bats.  For myself I just set these both to 100 since that seems to be my default (volume 11/10).  To adjust these settings, I add the following to `/etc/sysctl.conf`:
 
 {% highlight shell %}
 hw.acpi.video.lcd0.economy=100

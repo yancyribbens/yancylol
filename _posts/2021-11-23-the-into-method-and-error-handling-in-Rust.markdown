@@ -26,6 +26,6 @@ The Into implementation is provided by the <a href="https://doc.rust-lang.org/st
   }
 {% endhighlight %}
 
-After implementing the above example, calling into() on a type lettre::transport::smtp::Error will result in a varient `AppErr::SmtpError(lettre::transport::smtp::Error)` of type `AppErr`. 
+After implementing the above example, calling into() on a type lettre::transport::smtp::Error will result in a variant `AppErr::SmtpError(lettre::transport::smtp::Error)` of type `AppErr`. 
 
 <a class="credit" href="https://m4rw3r.github.io/rust-questionmark-operator"> Example credit </a>
