@@ -26,7 +26,7 @@ mkdir -p /data/www
 
 Make a symlink from the hosted directory to the site build location
 {% highlight shell %}
-ln -s ~/git/yancylol/\_site yancy.lol
+ln -s ~/git/yancylol/\_site /data/www/yancylol
 {% endhighlight %}
 
 Edit nginx.conf
