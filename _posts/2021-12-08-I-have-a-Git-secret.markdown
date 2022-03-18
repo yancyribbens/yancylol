@@ -37,7 +37,7 @@ Add all files to .gitignore that you want to keep hidden
 vim .gitignore
 {% endhighlight %}
 
-"Creates a directory called .gitsecret and also adds .gitsecret/keys/random_seed to .gitignore so that you can't accidentally share your private seed" [1](https://git-secret.io/).
+Add .gitsecret ignoring random_seed. Note: By default, git secret init will add the file .gitsecret/keys/random_seed to your .gitignore. [1](https://git-secret.io/).
 
 {% highlight shell %}
 git add .gitsecret
