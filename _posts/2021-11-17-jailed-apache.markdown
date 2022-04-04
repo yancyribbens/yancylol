@@ -23,7 +23,7 @@ paste the following
 {% highlight nix %}
 apache {
   host.hostname = phobos;
-  ip4.addr = 192.168.0.1;                    # IP address of the jail (the internet facing IP)
+  ip4 = inherit;                             # inherit the ip4 address from the host machine
   path = "/root/jails/apache";               # Path to the jail
   mount.devfs;                               # Mount devfs inside the jail
   exec.start = "/bin/sh /etc/rc";            # Start command
@@ -34,7 +34,7 @@ apache {
 
 start the jail called apache
 {% highlight shell %}
-/etc/rc.d/jail onestart apache
+sudo /etc/rc.d/jail onestart apache
 {% endhighlight %}
 
 invoke the default shell
