@@ -47,6 +47,11 @@ update, upgrade and install bash
 pkg update; pkg upgrade; pkg ins bash
 {% endhighlight %}
 
+change the default shell to bash
+{% highlight shell %}
+chsh -s /usr/local/bin/bash root
+{% endhighlight %}
+
 exit current shell
 {% highlight shell %}
 exit
@@ -54,7 +59,7 @@ exit
 
 We can now use bash!
 {% highlight shell %}
-jexec apache /usr/local/bin/bash
+jexec apache
 {% endhighlight %}
 
 I needed to run the following command on the host (not the jail) to give permissions to use raw_sockets.  Without this, an ominous error message is displayed when in the Jail and using the interface, for example to ping.
