@@ -63,7 +63,7 @@ edit: This is only needed for certain network capabilities such as ping
 jail -m name=apache allow.raw_sockets=1
 {% endhighlight %}
 
-install and start apache.  After this, on the host machine you should be able to curl 192.168.0.1 </i>
+install and start apache.  After this, on the host machine you should be able to curl 192.168.0.1
 {% highlight shell %}
 pkg ins apache24; sysrc apache24_enable="yes"; service apache24 onestart
 {% endhighlight %}
