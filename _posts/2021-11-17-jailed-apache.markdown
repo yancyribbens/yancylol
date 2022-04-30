@@ -59,7 +59,7 @@ exit
 
 We can now use bash!
 {% highlight shell %}
-jexec apache
+sudo jexec apache
 {% endhighlight %}
 
 I needed to run the following command on the host (not the jail) to give permissions to use raw_sockets.  Without this, an ominous error message is displayed when in the Jail and using the interface, for example to ping.
