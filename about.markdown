@@ -12,4 +12,6 @@ Recently I've also studied cryptography: [Stanford online Cryptography I](https:
 
 Since 2011, I've worked as a software engineer on many different types of projects.  Most recently I worked at (Crypto Garage)[https://cryptogarage.co.jp/en] in Tokyo Japan.
 
-Currently I'm traveling the world and am living on a Greek island called Corfu.  I also have a rescue dog found in Albania as my side kick (or maybe I'm her side kick).  Thanks for visiting my site and looking forward to the future!
+Currently I'm traveling the world and am living on a Greek island called Corfu.  I have a rescue dog named Diane found in Albania as my side kick (or maybe I'm her side kick) and a bicycle from Tirana.
+
+Thanks for visiting my site and looking forward to the future!
