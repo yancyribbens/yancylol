@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Yancy! who are you?  Please feel free to email me email@yancy.lol.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I studied Computer Science at the [University of Minnesota (Twin Cities)](https://en.wikipedia.org/wiki/University_of_Minnesota) with an emphasis on systems programming and computer networks.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Recently I've also studied cryptography: [Stanford online Cryptography I](https://www.coursera.org/account/accomplishments/verify/LG3FS2LSRCEK).
 
+Since 2011, I've worked as a software engineer on many different types of projects.  Most recently I worked at (Crypto Garage)[https://cryptogarage.co.jp/en] in Tokyo Japan.
 
-[jekyll-organization]: https://github.com/jekyll
+Currently I'm traveling the world and am living on a Greek island called Corfu.  I also have a resuce dog I found in Albania as my side kick (or maybe I'm her side kick).  Thanks for visiting my site and looking forward to the future!
