@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "If you're into evil you're a friend of mine"
-date:   2022-05-05 18:09:00 +0300
+date:   2022-05-08 12:46:00 +0300
 categories: rust
 ---
 
