@@ -13,7 +13,7 @@ xsetroot -solid \#400040 -cursor_name top_left_arrow
 /usr/local/bin/evilwm -snap 10
 {% endhighlight %}
 
-The most important port is to launch `/usr/local/bin/evilwm` on startup.  `-snap 10` enables snap to window when you approach the boarder when resizing or moving a window.
+The most important piece is to launch `/usr/local/bin/evilwm` on startup.  `-snap 10` enables snap to window when you approach the boarder when resizing or moving a window.
 
 I found the default xterm font to be very small and unreadable so I added to following to `~/.Xdefaults`
 
