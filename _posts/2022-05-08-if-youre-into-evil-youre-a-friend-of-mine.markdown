@@ -24,4 +24,10 @@ xterm*faceName: Monaco
 xterm*faceSize: 13
 {% endhighlight %}
 
+To make the changes take effect, either restart or:
+
+{% highlight nix %}
+xrdb .Xdefaults
+{% endhighlight %}
+
 Another side note is copy and paste work a bit different than other terminals I've used.  For example, just selecting text inside the terminal will save the contents to a clipboard, and then to paste into a different application, click the middle mouse button.  Another handy but related tip is that using evilwm, `alt+left` (and drag) click will move the window, however `alt+middle` click will resize the window.
