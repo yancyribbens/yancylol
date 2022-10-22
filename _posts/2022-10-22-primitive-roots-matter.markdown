@@ -97,6 +97,4 @@ You:
     shared key: (703 ^ 523) % 941 = 839
 ```
 
-Pretty cool, we now arrive at the same shared secret while using or different secret keys which are not revealed.
-
-
+Pretty cool, we now arrive at the same shared secret while using or different secret keys which are not revealed.  All made possible by using `g` `631` which is a primitive root of `p` `941`.
