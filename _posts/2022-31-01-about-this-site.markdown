@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About this site Dr. Jekyll"
+title:  "About This Site Dr. Jekyll"
 date:   2022-01-31 14:02:00 +0100
 categories: rust
 ---

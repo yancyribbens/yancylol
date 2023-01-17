@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Failure handling in Rust"
+title:  "Failure Handling in Rust"
 date:   2021-10-19 14:02:00 +0100
 categories: rust
 ---

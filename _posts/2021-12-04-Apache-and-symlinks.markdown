@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apache and symlinks"
+title:  "Apache and Symlinks"
 date:   2021-12-04 14:02:00 +0100
 categories: freebsd
 ---

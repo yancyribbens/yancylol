@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I have a Git secret"
+title:  "I Have a Git Secret"
 date:   2021-12-08 14:02:00 +0100
 categories: freebsd 
 ---

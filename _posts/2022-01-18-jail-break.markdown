@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jail break"
+title:  "Jail Break"
 date:   2022-01-18 14:02:00 +0100
 categories: freebsd 
 ---

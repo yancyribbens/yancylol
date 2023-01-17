@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The into method and error handling in Rust"
+title:  "The Into Method and Error Handling in Rust"
 date:   2021-11-23 14:02:00 +0100
 categories: rust
 ---

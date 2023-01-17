@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Screen brightness"
+title:  "Screen Brightness"
 date:   2021-12-22 14:02:00 +0100
 categories: freebsd
 ---

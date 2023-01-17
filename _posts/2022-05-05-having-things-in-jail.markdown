@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Having things in jail"
+title:  "Having Things in Jail"
 date:   2022-05-05 18:09:00 +0300
 categories: rust
 ---
