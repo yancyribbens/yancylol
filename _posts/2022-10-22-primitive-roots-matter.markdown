@@ -6,9 +6,12 @@ categories: rust
 ---
 The other day, I happened upon a nice writeup titled [Modular Exponentiation in Rust](https://rob.co.bb/posts/2019-02-10-modular-exponentiation-in-rust). However, after reading halfway through the article, I found some things that didn’t jive. I’ve emailed the author to notify him of the error, so the content may be fixed by now.
 
-Modular exponention is used in [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) to compute public, private, and shared keys. Below, I describe the subtle problems that occur if one of the primes is not a primitive root of the other.
+Modular exponention is used in [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) to compute public, private, and shared keys. Below, I describe
+ the subtle problems that occur if one of the primes is not a primitive root of the other.
 
-Before I delve into the details, it's important to understand what makes a number a primitive root of a prime number n modulo n.  A primitive root of a prime will generate all the numbers less than a second prime using modular exponentiation.  Said another way, if we compute `(g ^ a) % p` where `g` is a primitive root of `p`, than for all `a` `[0, p-2]`, the result is a range of all numbers `[1, p-1]`.  Further explanation and examples can be found [here](https://www.geeksforgeeks.org/primitive-root-of-a-prime-number-n-modulo-n/).
+Before I delve into the details, it's important to understand what makes a number a primitive root of a prime number n modulo n.  A primitive root of a prime will generate all the numbers le
+ss than a second prime using modular exponentiation.  Said another way, if we compute `(g ^ a) % p` where `g` is a primitive root of `p`, than for all `a` `[0, p-2]`, the result is a range of
+ all numbers `[1, p-1]`.  Further explanation and examples can be found [here](https://www.geeksforgeeks.org/primitive-root-of-a-prime-number-n-modulo-n/).
 \
 \
 \
