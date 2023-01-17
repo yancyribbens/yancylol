@@ -10,6 +10,6 @@ I studied Computer Science at the [University of Minnesota (Twin Cities)](https:
 
 Currently I'm traveling!
 
--[Budapest, Hungary](https://en.wikipedia.org/wiki/Budapest): 11/25/2022 - Current
+- [Budapest, Hungary](https://en.wikipedia.org/wiki/Budapest): 11/25/2022 - Current
 
 Thanks for visiting my site and looking forward to the future!
