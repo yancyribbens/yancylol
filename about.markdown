@@ -10,7 +10,7 @@ I studied Computer Science at the [University of Minnesota (Twin Cities)](https:
 
 Currently I'm traveling!
 
-- [Bay of Kotor, Hungary](https://en.wikipedia.org/wiki/Bay_of_Kotor): 02/15/2023 - Current
+- [Bay of Kotor, Montenegro](https://en.wikipedia.org/wiki/Bay_of_Kotor): 02/15/2023 - Current
 - [Budapest, Hungary](https://en.wikipedia.org/wiki/Budapest): 11/25/2022 - 02/13/2023
 - [Bucharest, Romania](https://en.wikipedia.org/wiki/Bucharest): 9/11/2022 - 11/25/2022 
 - [Sofia, Bulgaria](https://en.wikipedia.org/wiki/Sofia): 6/17/2022 - 9/3/2022 
